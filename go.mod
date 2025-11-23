@@ -1,3 +1,3 @@
-module github.com/alfapay
+module github.com/KlimGrishanov/alfapay
 
 go 1.21

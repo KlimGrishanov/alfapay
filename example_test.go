@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/alfapay"
+	"github.com/KlimGrishanov/alfapay"
 )
 
 func Example_registerOrder() {
